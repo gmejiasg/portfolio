@@ -1,0 +1,27 @@
+.navbar-brand{
+    min-height: 40px;
+    min-width: 150px;
+    background-image: url("./../img/APLogo.png");
+    background-size: cover;
+    background-position: center;
+}
+.fondo{
+    background-image: url("./../img/Fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 300px;
+}
+.perfil{   
+    background-image: url("../img/perfil.jpg");
+    border-radius: 100%;
+    position: relative;
+    top: -81px;
+    margin-bottom: -81px;
+    border: solid 7px #fff;
+    width: 172px;
+    height: 200px;
+    left: 36px;
+    background-size: cover;
+    background-position: initial;
+}
